@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Buttons Render 1`] = `
+<View
+  accessibilityLabel="Button title"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  role="button"
+  style={
+    {
+      "alignContent": "center",
+      "alignItems": "center",
+      "backgroundColor": "red",
+      "borderColor": "#074458",
+      "borderRadius": 15,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "minHeight": 30,
+      "padding": 10,
+    }
+  }
+>
+  <Text
+    accessibilityRole="text"
+    aria-label="Button title"
+    style={
+      [
+        {
+          "flexWrap": "wrap",
+        },
+        {
+          "color": "#115B99",
+          "fontFamily": "Arial Hebrew",
+          "fontSize": 27,
+          "lineHeight": 19.950000000000003,
+        },
+        [
+          {
+            "marginLeft": 10,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    Button title
+  </Text>
+</View>
+`;

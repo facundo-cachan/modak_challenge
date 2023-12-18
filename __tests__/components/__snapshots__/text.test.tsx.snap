@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text component Render component 1`] = `
+<Text
+  accessibilityRole="text"
+  aria-label="Demo Text"
+  style={
+    [
+      {
+        "flexWrap": "wrap",
+      },
+      {
+        "color": "#115B99",
+        "fontFamily": "Arial Hebrew",
+        "fontSize": 33,
+        "fontWeight": "bold",
+        "lineHeight": 26.6,
+        "textTransform": "capitalize",
+      },
+      undefined,
+    ]
+  }
+>
+  Demo Text
+</Text>
+`;
