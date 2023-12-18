@@ -78,7 +78,9 @@ This is one way to run your app — you can also run it directly from Xcode resp
 
 ## Preview
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding-left: 2rem: padding-right: 2rem">
-  <img src="https://github.com/facundo-cachan/modak_challenge/assets/29696243/005a5521-38de-4b94-a76a-b77a72215ae1" height="33%" width="33%" />
-  <img src="https://github.com/facundo-cachan/modak_challenge/assets/29696243/62db6fd2-ce8b-4a41-9476-c0baf7acf012" height="33%" width="33%" />
+<div style="display: flex; justify-content: space-between; align-items: center">
+  <img src="https://github.com/facundo-cachan/modak_challenge/assets/29696243/9debd02e-3a76-4df4-b53d-0582cc7a6181" height="33%" width="33%" />
+  <img src="https://github.com/facundo-cachan/modak_challenge/assets/29696243/af68a699-2e95-4e92-b7f5-03e77dcd609e" height="33%" width="33%" />
 </div>
+
+
